@@ -1,0 +1,7 @@
+{
+  "extends": "@antfu",
+  "rules": {
+    "@typescript-eslint/no-use-before-define": "off",
+    "no-console": ["error", { "allow": ["warn", "error", "time", "timeEnd"] }]
+  }
+}

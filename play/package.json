@@ -1,0 +1,15 @@
+{
+  "name": "play",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "vapour-ui": "workspace:^1.0.0"
+  }
+}
