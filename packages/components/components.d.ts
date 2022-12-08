@@ -1,7 +1,7 @@
 declare module "@vue/runtime-core" {
     export interface GlobalComponents {
-        vpButton: typeof import('vapour-ui').Button
-        vpInput: typeof import('vapour-ui').Input
+        'vp-button': typeof import('vapour-ui').Button
+        'vp-input': typeof import('vapour-ui').Input
     }
 }
 export { }

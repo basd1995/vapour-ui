@@ -11,6 +11,6 @@
   ],
   "typings": "lib/index.d.ts",
   "scripts": {
-    "build": "vite build"
+    "build: vapour-ui": "vite build"
   }
 }

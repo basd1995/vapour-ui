@@ -10,6 +10,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "vapour-ui": "workspace:^1.0.0"
+    "vapour-ui": "workspace:^0.0.7"
   }
 }
